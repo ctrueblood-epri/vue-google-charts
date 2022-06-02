@@ -38,7 +38,7 @@
     "debounce": "^1.1.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^16.0.0",
+    "@commitlint/cli": "^17.0.2",
     "@commitlint/config-conventional": "^16.0.0",
     "@commitlint/cz-commitlint": "^16.0.0",
     "@rollup/plugin-commonjs": "^21.0.1",
