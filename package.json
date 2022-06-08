@@ -47,7 +47,7 @@
     "@swc/core": "^1.2.124",
     "@vue/compiler-sfc": "^3.2.26",
     "browserslist": "^4.19.1",
-    "clean-publish": "^3.4.5",
+    "clean-publish": "^4.0.1",
     "commitizen": "^4.2.4",
     "css-loader": "^0.26.1",
     "cz": "^1.8.2",
